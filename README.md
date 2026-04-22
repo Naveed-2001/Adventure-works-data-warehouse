@@ -9,6 +9,23 @@ An end-to-end enterprise data warehouse project built on the AdventureWorks bicy
 - Built an interactive Tableau dashboard with 4 visualizations
 - Modelled a graph database in Neo4j with 7 Cypher queries
 
+## Screenshots
+
+### Star Schema Design
+![Schema Design](images/schema_design.jpg)
+
+### SSIS ETL Pipeline
+![SSIS ETL Pipeline](images/ssis_etl_pipeline.jpg)
+
+### SSRS Reports
+![SSRS Reports](images/ssrs_reports.jpg)
+
+### Tableau Dashboard
+![Tableau Dashboard](images/tableau_dashboard.jpg)
+
+### Neo4j Graph Queries
+![Neo4j Queries](images/neo4j_queries.jpg)
+
 ## Tech Stack
 - SQL Server (SSMS) — Database design and implementation
 - SSIS (SQL Server Integration Services) — ETL pipelines
